@@ -1,0 +1,35 @@
+# Salesforce / SFDX
+.sf/
+.sfdx/
+.localdevserver/
+deploy-options.json
+# Dependencies
+node_modules/
+
+# IDE & editor
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+logs/
+.env
+.env.local
+.env.*.local
+
+# Build & tooling
+coverage/
+.eslintcache
+*.tsbuildinfo
+
+# Cursor (optional: remove if you want to commit rules)
+.cursor/agent-transcripts/
+.cursor/projects/*/terminals/
