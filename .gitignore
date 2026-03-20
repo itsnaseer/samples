@@ -33,3 +33,4 @@ coverage/
 # Cursor (optional: remove if you want to commit rules)
 .cursor/agent-transcripts/
 .cursor/projects/*/terminals/
+.cursor/
